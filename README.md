@@ -21,7 +21,7 @@ this REST API have a login authentication by tokens.
 # DEPENDENCIES:
 
   - bcryptjs,
-  - body-parser",
+  - body-parser,
   - cors,
   - dotenv,
   - express,
