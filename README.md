@@ -1,6 +1,6 @@
 # REST-API-JWT-AUTH
 
-this REST API have a login authentication by tokens.
+this REST API have a login authentication by tokens in NODE JS.
 
 # USAGE
 
